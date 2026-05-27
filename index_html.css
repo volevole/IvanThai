@@ -2,12 +2,24 @@ a { color:#5D5D9E; }
 a:visited { color:#5D5D9E; } 
 a:active { color:#5C615E; } 
 a:hover { color:#B2B3B4; } 
+#table_274cbdb6 th { border: 1px solid #8C8C8C;  } 
+#table_274cbdb6 td { border: 1px solid #8C8C8C;  } 
 body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .textstyle1 { text-align:left; }
 .textstyle2 { font-size:24pt; font-family:Verdana, Geneva, sans-serif; color:#000000;  }
 .textstyle3 { font-size:12pt; font-family:Verdana, Geneva, sans-serif; color:#000000;  }
-#img_8033757 { vertical-align: bottom; position:relative; display: inline-block; width:20%; background:none; height:auto;  }
-#img_74cc30ce { vertical-align: bottom; position:relative; display: inline-block; width:20%; background:none; height:auto;  }
-.textstyle4 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
-#img_43dea141 { vertical-align: bottom; position:relative; display: inline-block; width:20%; background:none; height:auto;  }
-#img_741b1441 { vertical-align: bottom; position:relative; display: inline-block; width:20%; background:none; height:auto;  }
+#table_274cbdb6 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-table; width:50%; height:70px; background:none; border: 1px solid #8C8C8C; table-layout: fixed;  }
+#cell_55cd82bf {  }
+#cell_1efa2331 {  }
+.textstyle4 { text-align:center; }
+#img_24d810db { vertical-align: bottom; position:relative; display: inline-block; width:50%; background:none; height:auto;  }
+#cell_68473273 {  }
+#cell_557d032a {  }
+#img_389f94e9 { vertical-align: bottom; position:relative; display: inline-block; width:50%; background:none; height:auto;  }
+#cell_238231e9 {  }
+.textstyle5 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#cell_3310436c {  }
+#img_632d7c06 { vertical-align: bottom; position:relative; display: inline-block; width:50%; background:none; height:auto;  }
+#cell_3310436c {  }
+#cell_3310436c {  }
+#img_5ef93a62 { vertical-align: bottom; position:relative; display: inline-block; width:50%; background:none; height:auto;  }
