@@ -8,7 +8,7 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .textstyle1 { text-align:left; }
 .textstyle2 { font-size:24pt; font-family:Verdana, Geneva, sans-serif; color:#000000;  }
 .textstyle3 { font-size:12pt; font-family:Verdana, Geneva, sans-serif; color:#000000;  }
-#table_274cbdb6 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-table; width:50%; height:70px; background:none; border: 1px solid #8C8C8C; table-layout: fixed;  }
+#table_274cbdb6 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-table; width:100%; height:70px; background:none; border: 1px solid #8C8C8C; table-layout: fixed;  }
 #cell_55cd82bf {  }
 #cell_1efa2331 {  }
 .textstyle4 { text-align:center; }
